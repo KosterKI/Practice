@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice</string>
+    Copy code
+    <string name="logo_content_description">Logo</string>
+    <string name="next">Next page\n</string>
+    <string name="previous">Previous page</string>
+    <string name="page">Page %d</string>
+
+</resources>
